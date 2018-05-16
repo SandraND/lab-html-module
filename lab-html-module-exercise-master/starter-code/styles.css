@@ -1,0 +1,209 @@
+body{
+    font-family: 'Source Sans Pro', 'Lucida Grande', sans-serif;
+
+}
+
+nav{
+    background-color: #CB3837;
+    color: rgba(255, 255, 255, 0.8);
+    padding-top:15px;
+    height: 40px;
+}
+
+nav a{
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.top-links{
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+    
+}
+
+.top-links li{
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+
+}
+
+.first-div{
+    width: 100%;
+    text-decoration: none;
+    height: 80px;
+}
+
+.npm-logo-img{
+    height: 60px;
+    vertical-align: center;
+
+}
+.header{
+    background: url(images/city-scape.svg) no-repeat center;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.bear-logo-img{
+    height: 40px;
+    vertical-align: center;
+    float: right;
+
+}
+
+.log-sign-in li{
+    text-decoration: none;
+    float: right;
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+}
+
+.searchBar{
+    background-color: rgb(31, 82, 111);
+    width: 70%;
+    height: 40px;
+}
+
+
+
+
+.second-div {
+    
+    margin-left: 100px;
+    margin-top: 100px;
+    color:white;
+    width: 45%;
+    height: 400px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.signup-button{
+    background-color: rgb(240, 146, 51);
+    color:white;
+    border-radius: 25%;
+    height: 50px;
+    width: 300px;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.collaboration-section{
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+    background: rgb(39, 53, 71);
+    vertical-align: top;
+    padding-bottom: 100px;
+}
+
+.collaboration-content{
+    font: white;
+    float: right;
+    margin-top:50px;
+}
+
+.collaboration-list{
+    color:white;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+
+.collaboration-button{
+    background-color: rgb(203,56,55);
+    border-radius: 44%;
+    color: white;
+    height: 40px;
+    width: 170px;
+}
+
+.collaboration-img{
+    vertical-align: top;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.npm-section{
+    height: 400px;
+    display: inline-block;
+    width: 100%;
+    background: url(images/forklift.svg);
+    background-size: cover;
+    font:white;
+}
+
+.npm-section-text{
+    margin-left: 100px;
+    margin-top: 90px;
+    position: relative;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.npm-button{
+    
+    background-color: rgb(49,68,88);
+    color: white;
+    border-radius: 44%;
+    height: 40px;
+    width: 180px;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.div1{
+    text-align: center;
+    margin-top: 50px;
+}
+.div1header{
+    color: rgb(83,88,98);
+}
+
+.div1article{
+    color: rgb(135,145,156);
+}
+
+.div2{
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+.find{
+    float: left;
+    padding-top: 10px;
+    height: 390px;
+    width: 30%;
+    font-size: 20px;
+    color: rgb(135,145,156);
+
+
+}
+.discover{
+    float:left;
+    height: 390px;
+    padding-top: 10px;
+    margin: 0 1%;
+    width: 30%;
+    font-size: 20px;
+    color: rgb(135,145,156);
+
+}
+.build{
+    float: left;
+    height: 390px;
+    padding-top: 10px;
+    width: 30%;
+    font-size: 20px;
+    color: rgb(135,145,156);
+
+}
